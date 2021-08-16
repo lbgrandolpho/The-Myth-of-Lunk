@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 24 - Coffee Duel.ogg-f9a8bfb28a8d53ec91595d265c1346fd.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 24 - Coffee Duel.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 24 - Coffee Duel.ogg-f9a8bfb28a8d53ec91595d265c1346fd.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

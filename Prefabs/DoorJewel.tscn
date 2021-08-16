@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/HAS IconPack (v.1.2)/IconPack 1.0/AllItems/Miscellaneous/Artifact/ArtifactOutline/ArtifactOutline 92.png" type="Texture" id=1]
+
+[node name="DoorJewel" type="Sprite"]
+scale = Vector2( 0.3, 0.3 )
+texture = ExtResource( 1 )

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Jump02.wav-ed5a34ac9f0e7223cba96209f2246de2.sample"
+
+[deps]
+
+source_file="res://Assets/8BIT CanariPack TopDown/SFX/Jump02.wav"
+dest_files=[ "res://.import/Jump02.wav-ed5a34ac9f0e7223cba96209f2246de2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

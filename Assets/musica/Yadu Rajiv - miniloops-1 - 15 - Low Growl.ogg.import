@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 15 - Low Growl.ogg-5c0bc104ed115b28283384e24ac5ee7e.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 15 - Low Growl.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 15 - Low Growl.ogg-5c0bc104ed115b28283384e24ac5ee7e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

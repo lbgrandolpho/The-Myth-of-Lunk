@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Its Haunted.ogg-75378ad0cc941fc3bdf50b2d61608426.oggstr"
+
+[deps]
+
+source_file="res://Assets/Old Man OGG/Its Haunted.ogg"
+dest_files=[ "res://.import/Its Haunted.ogg-75378ad0cc941fc3bdf50b2d61608426.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

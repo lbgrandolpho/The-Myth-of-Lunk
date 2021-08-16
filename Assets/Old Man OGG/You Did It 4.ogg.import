@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/You Did It 4.ogg-8471d23a99b37eeb3a1d473adae32db2.oggstr"
+
+[deps]
+
+source_file="res://Assets/Old Man OGG/You Did It 4.ogg"
+dest_files=[ "res://.import/You Did It 4.ogg-8471d23a99b37eeb3a1d473adae32db2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

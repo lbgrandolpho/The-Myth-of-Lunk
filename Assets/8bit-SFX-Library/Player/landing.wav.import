@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/landing.wav-90843b5f84868ee65e43de35c152036a.sample"
+
+[deps]
+
+source_file="res://Assets/8bit-SFX-Library/Player/landing.wav"
+dest_files=[ "res://.import/landing.wav-90843b5f84868ee65e43de35c152036a.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

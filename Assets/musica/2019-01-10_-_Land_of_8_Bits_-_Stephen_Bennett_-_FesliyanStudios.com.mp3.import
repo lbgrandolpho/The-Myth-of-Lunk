@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/2019-01-10_-_Land_of_8_Bits_-_Stephen_Bennett_-_FesliyanStudios.com.mp3-47f97c23ad0ca86cf94a80586ca521cd.mp3str"
+
+[deps]
+
+source_file="res://Assets/musica/2019-01-10_-_Land_of_8_Bits_-_Stephen_Bennett_-_FesliyanStudios.com.mp3"
+dest_files=[ "res://.import/2019-01-10_-_Land_of_8_Bits_-_Stephen_Bennett_-_FesliyanStudios.com.mp3-47f97c23ad0ca86cf94a80586ca521cd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hurt02.wav-9bd964484bbe8d0e351f39bd4f3aa587.sample"
+
+[deps]
+
+source_file="res://Assets/8BIT CanariPack TopDown/SFX/Hurt02.wav"
+dest_files=[ "res://.import/Hurt02.wav-9bd964484bbe8d0e351f39bd4f3aa587.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

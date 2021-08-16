@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/1BITTopDownMusics - Track 03 (1BIT Eerie).wav-2b2bc6f8783d0b0fedb40360834a05d6.sample"
+
+[deps]
+
+source_file="res://Assets/8BIT CanariPack TopDown/MUSIC/1BITTopDownMusics - Track 03 (1BIT Eerie).wav"
+dest_files=[ "res://.import/1BITTopDownMusics - Track 03 (1BIT Eerie).wav-2b2bc6f8783d0b0fedb40360834a05d6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

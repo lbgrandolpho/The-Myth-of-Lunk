@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/robot.wav-ca2d21dc743ac562bf7a482d6db6fe42.sample"
+
+[deps]
+
+source_file="res://Assets/8bit-SFX-Library/Environment/robot.wav"
+dest_files=[ "res://.import/robot.wav-ca2d21dc743ac562bf7a482d6db6fe42.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

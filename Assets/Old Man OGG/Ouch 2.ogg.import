@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Ouch 2.ogg-017c6b42b243cfe8fc61465ff58e2f78.oggstr"
+
+[deps]
+
+source_file="res://Assets/Old Man OGG/Ouch 2.ogg"
+dest_files=[ "res://.import/Ouch 2.ogg-017c6b42b243cfe8fc61465ff58e2f78.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

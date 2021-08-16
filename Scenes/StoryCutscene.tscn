@@ -1,0 +1,188 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Assets/Fonts/RulerGold.ttf" type="DynamicFontData" id=1]
+[ext_resource path="res://Scripts/StoryCutscene.gd" type="Script" id=2]
+
+[sub_resource type="DynamicFont" id=1]
+size = 5
+font_data = ExtResource( 1 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 8
+font_data = ExtResource( 1 )
+
+[sub_resource type="Animation" id=2]
+resource_name = "Cutscene"
+length = 70.0
+tracks/0/type = "value"
+tracks/0/path = NodePath("Cutscene1:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 3, 33, 36 ),
+"transitions": PoolRealArray( 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 0 ), Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 1 ), Color( 0, 0, 0, 0 ) ]
+}
+tracks/1/type = "value"
+tracks/1/path = NodePath("Cutscene2:modulate")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/keys = {
+"times": PoolRealArray( 0, 36, 39, 49, 52 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 0 ), Color( 0, 0, 0, 0 ), Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 1 ), Color( 0, 0, 0, 0 ) ]
+}
+tracks/2/type = "value"
+tracks/2/path = NodePath("Cutscene3:modulate")
+tracks/2/interp = 1
+tracks/2/loop_wrap = true
+tracks/2/imported = false
+tracks/2/enabled = true
+tracks/2/keys = {
+"times": PoolRealArray( 0, 52, 55, 65, 68 ),
+"transitions": PoolRealArray( 1, 1, 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 0, 0, 0, 0 ), Color( 0, 0, 0, 0 ), Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 0 ) ]
+}
+tracks/3/type = "method"
+tracks/3/path = NodePath("..")
+tracks/3/interp = 1
+tracks/3/loop_wrap = true
+tracks/3/imported = false
+tracks/3/enabled = true
+tracks/3/keys = {
+"times": PoolRealArray( 70 ),
+"transitions": PoolRealArray( 1 ),
+"values": [ {
+"args": [  ],
+"method": "_on_Timer_timeout"
+} ]
+}
+
+[sub_resource type="Animation" id=4]
+resource_name = "Skip"
+length = 2.0
+loop = true
+tracks/0/type = "value"
+tracks/0/path = NodePath("Skip:modulate")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/keys = {
+"times": PoolRealArray( 0, 1, 2 ),
+"transitions": PoolRealArray( 1, 1, 1 ),
+"update": 0,
+"values": [ Color( 1, 1, 1, 0 ), Color( 1, 1, 1, 1 ), Color( 1, 1, 1, 0 ) ]
+}
+
+[node name="StoryCutscene" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ColorRect" type="ColorRect" parent="."]
+margin_right = 160.0
+margin_bottom = 160.0
+color = Color( 0, 0, 0, 1 )
+
+[node name="Labels" type="Node" parent="."]
+
+[node name="Cutscene1" type="Label" parent="Labels"]
+modulate = Color( 0, 0, 0, 0 )
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -72.0
+margin_top = -60.0
+margin_right = 72.0
+margin_bottom = 60.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_colors/font_outline_modulate = Color( 0.52549, 0.431373, 0.431373, 1 )
+text = "The young and rebel Selda, a plebeian who lives in the small and peaceful Rilure kingdom, has her world turned upside down when the demon Nonag, an evil creature of constant presence on the stories of Rilurian Mythology, reappers after thousands of years and kidnapps Prince Lunk, so he can perform a ritual which will fulfill an ancient prophecy that will return him his full powers and, indoubtly, surrender Rilure to his complete domination. "
+align = 1
+valign = 1
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Cutscene2" type="Label" parent="Labels"]
+modulate = Color( 0, 0, 0, 0 )
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -72.0
+margin_top = -60.0
+margin_right = 72.0
+margin_bottom = 60.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_colors/font_outline_modulate = Color( 0.52549, 0.431373, 0.431373, 1 )
+text = "Selda was great friends with Prince Lunk when they were both kids, but they have gone their separate ways since Lunk had to get more involved in his royal duties."
+align = 1
+valign = 1
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Cutscene3" type="Label" parent="Labels"]
+modulate = Color( 0, 0, 0, 0 )
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -72.0
+margin_top = -60.0
+margin_right = 72.0
+margin_bottom = 60.0
+custom_fonts/font = SubResource( 1 )
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_colors/font_outline_modulate = Color( 0.52549, 0.431373, 0.431373, 1 )
+text = "Suddenly she realizes that old feelings don't go away that easily, and therefore she must save her old friend and, by doing that, save the entire world from Nonag's claws."
+align = 1
+valign = 1
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Skip" type="Label" parent="Labels"]
+modulate = Color( 1, 1, 1, 0 )
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = -8.0
+margin_top = 64.0
+margin_right = 80.0
+margin_bottom = 79.0
+custom_fonts/font = SubResource( 3 )
+custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_colors/font_outline_modulate = Color( 0.52549, 0.431373, 0.431373, 1 )
+text = "Press [space] to skip"
+align = 1
+valign = 1
+autowrap = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Labels"]
+anims/Cutscene = SubResource( 2 )
+
+[node name="AnimationPlayer2" type="AnimationPlayer" parent="Labels"]
+anims/Skip = SubResource( 4 )

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 08 - Hidden in the Shadows.ogg-f0e881e3bc3fcbe5a2cdaaaa4513d794.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 08 - Hidden in the Shadows.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 08 - Hidden in the Shadows.ogg-f0e881e3bc3fcbe5a2cdaaaa4513d794.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 19 - Expect Us.ogg-6a007b319062ed778312f45e0c85a3f6.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 19 - Expect Us.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 19 - Expect Us.ogg-6a007b319062ed778312f45e0c85a3f6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

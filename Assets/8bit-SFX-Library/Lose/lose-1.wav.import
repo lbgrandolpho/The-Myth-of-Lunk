@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/lose-1.wav-71aabc606c7900148707c26c76506e39.sample"
+
+[deps]
+
+source_file="res://Assets/8bit-SFX-Library/Lose/lose-1.wav"
+dest_files=[ "res://.import/lose-1.wav-71aabc606c7900148707c26c76506e39.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

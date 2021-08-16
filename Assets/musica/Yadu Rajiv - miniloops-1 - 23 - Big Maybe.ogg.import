@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 23 - Big Maybe.ogg-805313bb47753b0a12ab7794ced5bbb1.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 23 - Big Maybe.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 23 - Big Maybe.ogg-805313bb47753b0a12ab7794ced5bbb1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

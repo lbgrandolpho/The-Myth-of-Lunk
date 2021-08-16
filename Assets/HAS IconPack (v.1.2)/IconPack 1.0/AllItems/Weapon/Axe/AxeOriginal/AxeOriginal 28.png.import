@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/AxeOriginal 28.png-d13003e21cdf044d84b17a21c2b3e832.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assets/HAS IconPack (v.1.2)/IconPack 1.0/AllItems/Weapon/Axe/AxeOriginal/AxeOriginal 28.png"
+dest_files=[ "res://.import/AxeOriginal 28.png-d13003e21cdf044d84b17a21c2b3e832.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

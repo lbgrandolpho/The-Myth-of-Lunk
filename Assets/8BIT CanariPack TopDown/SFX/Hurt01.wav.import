@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Hurt01.wav-595f3ab92ac29326ad7f8f06efe1df94.sample"
+
+[deps]
+
+source_file="res://Assets/8BIT CanariPack TopDown/SFX/Hurt01.wav"
+dest_files=[ "res://.import/Hurt01.wav-595f3ab92ac29326ad7f8f06efe1df94.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

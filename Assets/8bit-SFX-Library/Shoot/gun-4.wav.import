@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/gun-4.wav-b18e4110c3d95c7f07eb5f430652cfc2.sample"
+
+[deps]
+
+source_file="res://Assets/8bit-SFX-Library/Shoot/gun-4.wav"
+dest_files=[ "res://.import/gun-4.wav-b18e4110c3d95c7f07eb5f430652cfc2.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

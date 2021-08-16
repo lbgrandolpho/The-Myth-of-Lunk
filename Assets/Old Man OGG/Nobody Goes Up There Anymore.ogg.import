@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nobody Goes Up There Anymore.ogg-ceabec6610dea57d5af963db63f37449.oggstr"
+
+[deps]
+
+source_file="res://Assets/Old Man OGG/Nobody Goes Up There Anymore.ogg"
+dest_files=[ "res://.import/Nobody Goes Up There Anymore.ogg-ceabec6610dea57d5af963db63f37449.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

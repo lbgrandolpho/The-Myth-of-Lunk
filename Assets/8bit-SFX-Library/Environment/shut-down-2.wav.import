@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/shut-down-2.wav-e4fcc782db63c7ed3677044462edc4c6.sample"
+
+[deps]
+
+source_file="res://Assets/8bit-SFX-Library/Environment/shut-down-2.wav"
+dest_files=[ "res://.import/shut-down-2.wav-e4fcc782db63c7ed3677044462edc4c6.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

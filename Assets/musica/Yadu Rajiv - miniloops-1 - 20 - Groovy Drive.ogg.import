@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 20 - Groovy Drive.ogg-ae0dc200b4ba990462253efaac945cd5.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 20 - Groovy Drive.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 20 - Groovy Drive.ogg-ae0dc200b4ba990462253efaac945cd5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

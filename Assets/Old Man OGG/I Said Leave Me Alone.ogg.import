@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/I Said Leave Me Alone.ogg-5dd694a4851ddff127054ab50735f1f1.oggstr"
+
+[deps]
+
+source_file="res://Assets/Old Man OGG/I Said Leave Me Alone.ogg"
+dest_files=[ "res://.import/I Said Leave Me Alone.ogg-5dd694a4851ddff127054ab50735f1f1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

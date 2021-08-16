@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 09 - Bubblegum Pop Hiphop.ogg-c1a291e94ab0b873999e8370d00a31c6.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 09 - Bubblegum Pop Hiphop.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 09 - Bubblegum Pop Hiphop.ogg-c1a291e94ab0b873999e8370d00a31c6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

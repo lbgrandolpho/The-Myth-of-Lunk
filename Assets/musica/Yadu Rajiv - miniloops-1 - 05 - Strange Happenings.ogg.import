@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 05 - Strange Happenings.ogg-a5cd2fa9f488de83b7db01578b3367de.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 05 - Strange Happenings.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 05 - Strange Happenings.ogg-a5cd2fa9f488de83b7db01578b3367de.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

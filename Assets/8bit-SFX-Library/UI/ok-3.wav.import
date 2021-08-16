@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ok-3.wav-9b145032a3cb5de2e63886f8d229f424.sample"
+
+[deps]
+
+source_file="res://Assets/8bit-SFX-Library/UI/ok-3.wav"
+dest_files=[ "res://.import/ok-3.wav-9b145032a3cb5de2e63886f8d229f424.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

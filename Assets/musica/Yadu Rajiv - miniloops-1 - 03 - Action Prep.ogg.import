@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 03 - Action Prep.ogg-bcf7f3b5436df59682cf0a17cd8bded6.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 03 - Action Prep.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 03 - Action Prep.ogg-bcf7f3b5436df59682cf0a17cd8bded6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

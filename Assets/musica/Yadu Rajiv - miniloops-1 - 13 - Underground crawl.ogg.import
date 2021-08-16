@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Yadu Rajiv - miniloops-1 - 13 - Underground crawl.ogg-beec2eaec6ce358d479c101dd2503b82.oggstr"
+
+[deps]
+
+source_file="res://Assets/musica/Yadu Rajiv - miniloops-1 - 13 - Underground crawl.ogg"
+dest_files=[ "res://.import/Yadu Rajiv - miniloops-1 - 13 - Underground crawl.ogg-beec2eaec6ce358d479c101dd2503b82.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
